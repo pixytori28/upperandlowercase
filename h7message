@@ -1,0 +1,18 @@
+#name:Victoria Inahuazo
+#email:victoria.inahuazo11@myhunter.cuny.edu
+#date: 02/27/24
+#the following program prints 3 latin words
+
+
+message = "Mihi cura futuri"
+print (message)
+
+print(message.upper())
+print(message.lower())
+
+
+classroom = "CSci 127"
+print(classroom)
+
+print(classroom.upper())
+print(classroom.lower())
